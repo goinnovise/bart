@@ -7,238 +7,96 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Loren Anderson
-  tagline: Principal Consultant - Senior Software Engineer, TPM, BA
-  avatar: profile.png
+  name: Bart Landry
+  tagline: UX Design Consultant
+  avatar: profile.jfif
 
   # Sidebar links
-  email: loren@goinnovise.com
-  phone: 425-941-5979
-  website: goinnovise.com
-  linkedin: loren-anderson
-  github: TheOfficialLoren
+  email:
+  phone:
+  website: bartlandry.com
+  linkedin: bartlandryaustin
+  github:
   gitlab:
   bitbucket:
   twitter:
-  stack-overflow: 1121638/lorengphd
+  stack-overflow:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
-  #languages:
-  #- idiom: English
-  #level: Native
-
   interests:
-    - item: Photography
+    - item: Swimming
       link:
-
-    - item: Fitness
+    - item: Musician
       link:
-
-    - item: Travel
+    - item: Science
       link:
-
-    - item: Gaming
+    - item: Nature
       link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Loren is a Senior Software Engineer with 10+ years of experience successfully
-    leading teams and educating businesses on development methodologies and best
-    practices. With his extensive knowledge of a wide array of software technologies,
-    languages and frameworks, Loren has assumed many different roles throughout his
-    career such as Systems Architect, Project Manager and Business Analyst, while
-    simultaneously programming and remaining a Senior Software Engineer. He excels
-    at quickly understanding the architectural landscape of businesses to advise and
-    bridge the gap between technical and non-technical teams to achieve business
-    goals, which is why he continues to be effective in the consulting industry.
+    Bart is a User Experience Leader who has, for over 24 years, shaped and optimized the user experience of hundreds of millions of online customers and clients. At this time, I am focused on delivering focused, highly effective solutions that maximize results, and minimize long-term costs, for clients.
 
 education:
-  - degree: General Studies - Focus on Business
-    university: Western Washington University
+  - degree: Bachelor of Science in Radio-Television-Film
+    university: UT Austin
 
 experiences:
-  - role: Principal Consultant, President
-    time: November 2019 - Present
-    company: Innovise Technologies
-    location: Bellevue, WA
+  - role: UX Design Consultant
+    time: April 2012 - Present
+    company: Bart Landry Design
+    location: Austin, TX
     details: |
-      As owner and Principal Consultant of Innovise, Loren is responsible for serving clients across many industries in an array of ways. Roles that Loren serves for clients include CTO, Software Development Lead, and Software Engineer. He partners with small and medium-sized organizations to understand business goals, challenges, and needs thens presents creative and innovative solutions. Day-to-Day oversight and responsibilities include, but are not limited to architecting software, managing teams, and conducting business analyses.
+      Bart has over 10 years of freelance experience serving dozens of different clients
 
       _Accomplishments_
-        - Saved client 60% on their monthly cost on monthly Azure spend by containerizing applications, moving scheduled processes to serverless functions, removing uneeded VM's, and more.
-        - Refactored and rebuilt slow and monolithic software systems built in .Net with C# to increase system speed and performance. Increased response time of systems by up to 75% by utilizing WebSockets throughout the system.
-        - Designed, built, deployed, and operated complete software systems utilizing NodeJs and React hosted in Firebase and integrated with many external systems
-        - Helped the client organize a software development team and put Agile processes in place utilizing Atlassian tools.         
-        - Adopted existing, but abandoned VueJs web application and rebuilt to new specifications of the client.
+        - Generation of prototypes, wireframes, personas, and all aspects of the User Experience Design process including user testing and user research
+        - Information Architecture, documentation, and business analysis
+        - User Interface Development – Figma, jQuery, CSS, Bootstrap, Wordpress, Python, HTML, D3, etc.
+        - B2B & B2C
 
-  - role: Senior Software Engineer
-    time: May 2019 - January 2020
-    company: Mercedes Benz, Research and Development, North America (on contract by iTrellis, LLC)
-    location: Seattle, WA
+  - role: Senior UX Designer (contract)
+    time: August 2018 - December 2021
+    company: Red River Consulting
+    location: Austin, TX
     details: |
-      As the Senior Software Engineer Loren was responsible for working on two projects
-      simultaneously for multiple stakeholders within the client's organization. One
-      project focused on creating and integrating the API that provides data to all client
-      vehicle head units worldwide, aligning with changing laws &amp; regulations. The 
-      second project was solving Azure Active Directory syncing issues for a 
-      subsection of the client's employees, requiring the creation of APIs and tasks 
-      to sync the Active Directory databases. 
 
       _Accomplishments_
-        -	Learned the clients operations procedures and used Docker & Kubernetes to stand
-        up both systems in Azure, resulting in successful systems integrations.
-        - Supported teams based out of Europe including during off-hours releases
-        for troubleshooting, debugging and general needs.
-        - Successfully delivered both projects ahead of projected timeline.
-        - At the request of the client, presented and demonstrated project work at meetings.
+        - Designed responsive B2C & B2B applications for a variety of prominent government offices
+        - Accessibility compliance & all aspects necessary for stringent government regulations
 
-  - role: Senior Software Engineer
-    time: Oct 2019 - May 2019
-    company: CBRE (on contract by iTrellis, LLC)
-    location: Dallas, TX
+  - role: Senior UX Designer
+    time: February 2012 - April 2012
+    company: mDossier
+    location: Denver, CO
     details: |
-      This project was for a client based in Dallas, Texas and required a combination
-      of remote and on-site work. Loren was tasked with working within the team to
-      produce an angular-driven internal website, featuring real-time dashboards that
-      displayed performance data an analytics used by the company's sales team.
-      Throughout this project, Loren played an integral role in solving front-end
-      and back-end projects simultaneously for the website, demonstrating the
-      benefits and efficiencies of resources that can execute both types of 
-      software design.
 
       _Accomplishments_
-        - The only member on the project team, working on front-end and back-end parts of the code increase production and decrease dependencies.
-        - Taught the client's team software development best practices such as git version control.
-        - Adopted Angular 7, Postgres and GoLang within a couple of days to meet the client's expectations.
-
-  - role: Account Lead & Senior Software Engineer
-    time: Oct 2018 - Oct 2019
-    company: Crestron (on contract by iTrellis, LLC)
-    location: Rockleigh, NJ
-    details: |
-      As a Senior Software Engineer, Loren assisted in the overhaul and deployment of
-      the client’s primary customer facing website and back-end tools to support
-      content changes and solve for multiple major performance issues.  He also provided
-      post-deployment support and continued feature development. Throughout this
-      process Loren also taught software development best practices and facilitated
-      the implementation of these processes, allowing the client to be self-sufficient 
-      post-completion of the project. He was also responsible for helping with 
-      code reviews, release management, Azure Dev Ops functions and process documentation.
-
-      _Accomplishments_
-        -	Responsible for building and maintaining iTrellis's relationship with the
-        client as the Account Lead.
-        - Supported the release of enterprise level Azure hosted website.
-        - Performed successful integrations including CDN and Elastic Search.
-        - Improved site performance by reducing database calls on each pages from
-        120 calls per page to 2, making Elastic Search more efficient.
-        - Quickly learned the company’s architectural landscape to make an immediate
-        impact on the client's team.
-        - As the Release Manager, Loren planned and executed the back-end tool
-        solution for content managers.
-
-  - role: Project Manager &amp; Senior Software Engineer
-    time: Dec 2017 - Oct 2019
-    company: Capstone Technologies (on contract by iTrellis, LLC)
-    location: Vancouver, WA
-    details: |
-      Played an integral role in transforming the client with no software change 
-      management processes into a SAFe organization, implementing Microsoft Team
-      Foundation Server as the team support technology. Acted as the Scrum Master,
-      supporting the team in the adoption of  Agile principles and continuous
-      development techniques. Produced metrics to identify strong and weak points
-      in the software creation process.
-        
-      _Accomplishments_
-        -	Organized the company into 3 functioning Scrum teams.
-        - Taught 9 developers and 5+ business analysts how to utilize the Scrum process.
-        - Created a CI/CD pipeline to increase productivity and quality assurance.
-
-  - role: Team Lead &amp; Senior Software Engineer
-    time: Mar 2011 - Jun 2016
-    company: ATG Stores / Lowe's
-    location: Kirkland, WA
-    details: |
-      Loren was responsible for the redesign of the cart and checkout pages of
-      e-commerce home improvement companies ATGStores.com and Lowe's Canada. This
-      integral redesign ensured optimal performance for customers purchasing on
-      the website. During this time, Loren also built and lead a team of 6 software
-      engineers to maintain and add additional features to the cart and checkout
-      pages of the site.
-
-      _Accomplishments_
-        - Integral part in helping meet and comply with PCI standards.
-        - Designed and created the credit card value using key encryption technology.
-        - Built and maintained a multi-million dollar checkout experience using Asp.net and C#.
-        - Implemented and lead the first team in the company to adopt Scrum methodologies.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-
-  papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
+        - Generated user personas, wireframes & prototypes for upcoming B2B application
 
 skills:
-  - title: Languages
-    value: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
-  - title: Frameworks
-    value: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
   - title: Tools
-    value: "Windows, Mac OS, Redux, Visual Studio, VS Code, Agile, Scrum, SAFe"
-  - title: Operations
-    value: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
-  - title: Other
-    value: "Leading Teams, Cross-Functional Communication, Git, Azure, SQL Server, Postgres"
+    value: "Figma, Adobe Design Suite, Adobe Premier, VS Code"
+  - title: Frameworks
+    value: "jQuery, Twitter Bootstrap"
+  - title: Languages
+    value: "JavaScript, CSS, HTML, Python"
+  - title: Expertise
+    value: "Accessibility, B2B and B2C, User Research, User Experience, Interface Design, Mobile, Business Analysis"
 
 # Examples section. Useful for UX designers or other visual additions
-showExamples: false
+showExamples: true
 examples:
-  - title: Caption 1
+  - title: Finanaical Market Data Analysis (external link)
     img: assets/images/example1.jpg
+    url: https://bartlandry.com/portfolio-financial-market-data.html
 
-  - title: Caption 2
-    img: assets/images/example1.jpg
+  - title: User Analysis for Desktop (external link)
+    img: assets/images/example2.jpg
+    url: https://bartlandry.com/portfolio-user-analytics.html
+
+  - title: Responsive Wireframes (external link)
+    img: assets/images/example3.jpg
+    url: https://bartlandry.com/portfolio-resort-search-results.html

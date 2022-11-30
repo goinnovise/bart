@@ -1,33 +1,32 @@
-{% assign examples = site.data.data.examples %} {% if examples %}
-<section class="section projects-section">
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
-    </span>
-    Examples
-  </h2>
+{% assign examples = site.data.data.examples %}
+{% if examples %}
+  <section class="section projects-section">
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      </span>
+      Examples
+    </h2>
 
-  <!---
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div>
-  {% endif %}
--->
+    <!---
+    {% if projects.intro %}
+    <div class="intro">
+    <p>{{ projects.intro }}</p>
+    </div>
+    {% endif %}
+    -->
 
-  <ul class="gallery" role="list">
-    {% for example in examples %}
-    <li>
-      <figure>
-        <a href="{{ example.img }}" target="_blank"
-          ><img alt="{{example.title}}" src="{{ example.img }}"
-        /></a>
-        <figcaption>{{example.title}}</figcaption>
-      </figure>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
-<!--//section-->
+    <ul class="gallery" role="list">
+      {% for example in examples %}
+        <li>
+          <figure>
+            <a href="{{ example.url | default: example.img }}" target="_blank"><img alt="{{example.title}}" src="{{ example.img }}"/></a>
+            <figcaption>{{example.title}}</figcaption>
+          </figure>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+  <!--//section-->
 {% endif %}
