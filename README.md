@@ -17,8 +17,9 @@ This is a jekyll application. Install Jekyll following the instructions for your
 3. `cd <employee-name>`
 4. `git remote add upstream https://github.com/goinnovise/loren.git`
 5. `git pull upstream master`
-6. `git push origin master`
+6. `git push -u origin master` The -u argument sets the origin master branch to the upstream branch for change tracking.
 7. Go to repo settings and enable GitHub pages
+8. Be sure to follow steps below, especially setting \_config.yml settings otherwise github pages can become corrupted.
 
 You can later update your downstream resumes with:
 `git fetch upstream`
